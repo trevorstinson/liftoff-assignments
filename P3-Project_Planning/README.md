@@ -8,12 +8,14 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+- [New Book](https://github.com/trevorstinson/booklog/blob/master/__design-files/wireframes/New%20Book.png)
+- [User Profile](https://github.com/trevorstinson/booklog/blob/master/__design-files/wireframes/Profile.png)
+- [Book Detail](https://github.com/trevorstinson/booklog/blob/master/__design-files/wireframes/Book%20Detail.png)
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+[Pivotal Tracker](https://www.pivotaltracker.com/n/projects/2240245)
 
 ### Project Repo Link
 
-(Include a link to your project on GitHub)
+[Booklog on GitHub](https://github.com/trevorstinson/booklog)
